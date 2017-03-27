@@ -1,0 +1,8 @@
+
+Paxos made simple
+
+Just say no to paxos overhead.
+
+A critique of the CAP theorem
+
+
